@@ -1,0 +1,36 @@
+#README File 
+
+Here are  the components of my Zip file :
+
+1.Regression Modelling on Proteomics Dataset - Sayane Shome.pdf
+
+Report on the entire analysis(including the python code) done on the proteomics dataset in pdf version 
+
+2.Regression Modelling on Proteomics Dataset - Sayane Shome.ipynb
+
+Report on the entire analysis(including the python code) done on the proteomics dataset in iPython/Jupyter notebook version 
+
+4.Python_code.py
+
+Python script of the ML models implemented,trained and tested on the datasets
+
+5.Clustering_Rscript.R
+
+R script of the PCA and K-means clustering done on the Protein expression values
+
+6.Figure1.png
+
+Plot showing the clusters using K-means clustering with K = 50
+
+7.Figure2.png
+
+Plot showing the clusters using K-means clustering with K = 3
+
+8.Figure3.png
+
+Plot showing the clusters using Principal Component Analysis
+
+
+
+
+  
